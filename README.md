@@ -18,8 +18,10 @@ LoadPlugin "DeveloperHelper"
 
 | Key        | function           |
 | ------------- |:-------------:| 
-| Shift + L      | Save your position| 
+| Shift + L      | Save your position | 
 
+#### Features 0.1 Beta
+* Save the player position in the save.txt file With your special word 
 
 
 
