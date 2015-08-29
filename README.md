@@ -25,4 +25,7 @@ LoadPlugin "DeveloperHelper"
 
 
 
-Thank you for using our plugin!
+#####Thank you for using our plugin!
+
+Special thanks to
+[Albo1125](http://www.lcpdfr.com/profile/223301-albo1125/)
