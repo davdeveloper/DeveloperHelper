@@ -5,7 +5,7 @@
  
 #### Installation
  
-* Download the DeveloperHelper.dll and drag and drop this file in your GTAV/Plugins folder
+* Download the DeveloperHelper.dll and the DeveloperHelper.ini, drag and drop this file in your GTAV/Plugins folder
 * Open the file startup.rphs and add the following line
 
 ```ruby
@@ -20,7 +20,18 @@ LoadPlugin "DeveloperHelper"
 | ------------- |:-------------:| 
 | Shift + L      | Save your position | 
 
-#### Features 0.1 Beta
+#### Features 0.1a Beta (Latest version)
+<ul>
+  <li>Change the keyboard layout to save your position </li>
+  <li>Get the car model, the color hex
+    <ul>
+      <li>Standing in front of a vehicle and press [Shift + O] </li>
+      <li>You can adjust in the DeveloperHelper.ini that the vehicle history is saved</li>
+    </ul>
+  </li>              
+</ul>
+
+##### Features 0.1 Beta
 * Save the player position in the GTAV/save.txt file with your special word 
 
 
