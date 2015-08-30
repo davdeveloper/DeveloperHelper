@@ -14,11 +14,12 @@ LoadPlugin "DeveloperHelper"
 
 * You're done :)
 
-#### Keyboard Layout
+#### Default Keyboard Layout
 
-| Key        | function           |
+| Key        | Function           |
 | ------------- |:-------------:| 
 | Shift + L      | Save your position | 
+| Shift + O      | Show vehicle model | 
 
 #### Features 0.1a Beta (Latest version)
 <ul>
