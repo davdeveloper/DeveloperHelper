@@ -21,7 +21,7 @@ LoadPlugin "DeveloperHelper"
 | Shift + L      | Save your position | 
 
 #### Features 0.1 Beta
-* Save the player position in the GTAV/save.txt file With your special word 
+* Save the player position in the GTAV/save.txt file with your special word 
 
 
 
